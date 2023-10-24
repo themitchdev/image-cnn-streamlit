@@ -14,7 +14,7 @@ with open('History', "rb") as file_pi:
 
 
 st.set_page_config(page_title="Butterfly Inc", layout="wide")
-st.title("Butterfly Inc Image Classifier")
+st.title("🦋 Butterfly Inc Image Classifier 🦋")
 st.subheader("A new Butterfly web application service to classify your butterfly specimen images with machine learning algorithm based on Convolutional Neural Network technique")
 st.divider()
 
